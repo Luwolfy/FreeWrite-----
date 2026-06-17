@@ -2,6 +2,10 @@
 本脚本是一款针对超星学习通（chaoxing.com）等在线学习平台的自动答题辅助工具，基于 DeepSeek API 实现智能作答。主要功能包括：  - 自动处理视频/音频任务（支持倍速播放、自动续播） - 自动完成测验、作业、考试题目 - 支持单选题、多选题、填空题、判断题、简答题等多种常见题型 - 视频播放过程中的弹题自动识别与作答 - 智能搜题节流，避免请求过于频繁 - 可视化浮窗面板，支持 API Key 安全存储
 
 FreeWrite 网课自主答题刷课助手（DeepSeek API 版）使用说明
+[先看我！！！FreeWrite网课自主答题刷课脚本-使用说明.pdf](https://github.com/user-attachments/files/29050413/FreeWrite.-.pdf)
+
+
+有图有真相，先看上面的pdf文件！！！那上面教程最全！！！
 
 版本：v3.3.0
 适用平台：
@@ -60,30 +64,36 @@ FreeWrite 网课自主答题刷课助手（DeepSeek API 版）使用说明	1
 一、脚本安装
 
 1、访问篡改猴 - Microsoft Edge Addons官网：https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN
+<img width="865" height="502" alt="image" src="https://github.com/user-attachments/assets/d4e9a4c0-6b22-4357-8b46-4a94875e08c4" />
+
  
 2、点击“获取”，并单击“添加扩展”
- 
+ <img width="865" height="707" alt="image" src="https://github.com/user-attachments/assets/77a0d42a-0a09-418d-81a9-b60c53b7e5c2" />
+
 
 3、单击右上角三个点“ ... ”，单击“扩展”-“管理扩展” 
+<img width="865" height="501" alt="image" src="https://github.com/user-attachments/assets/8631c8f5-a866-41b2-91d8-e47ab2363b18" />
 
 4、单击打开“开发人员选项” 
+<img width="865" height="707" alt="image" src="https://github.com/user-attachments/assets/a5fbe864-df1b-4d74-9853-3bd2d2dd2f8c" />
+
 5、单击“篡改猴”的“详细信息”按键。
 6、向下找到并开启“允许用户脚本”
- 
-7、返回学习界面，找到浏览器上方的“扩展”按钮（被两个小星星夹着），并单击“篡改猴”
- 
+ <img width="865" height="399" alt="image" src="https://github.com/user-attachments/assets/8f75c9f7-691d-4e62-9a67-ee5fee3ebc3c" />
 
+7、返回学习界面，找到浏览器上方的“扩展”按钮（被两个小星星夹着），并单击“篡改猴”
+ <img width="487" height="573" alt="image" src="https://github.com/user-attachments/assets/701f0357-0f70-4167-acfb-f2f7d215cdf2" />
 
 8、单击“添加新脚本” 
+<img width="1055" height="429" alt="image" src="https://github.com/user-attachments/assets/3fb1cbe8-1786-434a-9634-6c5e762c9441" />
 
 
 9、将文件夹中的“FreeWrite网课自主答题刷课.js”文件拖拽到浏览器中，
- 
-
-
+ <img width="637" height="624" alt="image" src="https://github.com/user-attachments/assets/bfb0867e-673f-46da-a4fe-e1e5af3a64d9" />
 
 10、并单击“安装”。
- 
+ ![Uploading image.png…]()
+
 11、返回课程界面，刷新界面即可出现脚本程序。
  
  
@@ -148,4 +158,4 @@ DeepSeek API Key：需在 DeepSeek 平台 注册并申请 API 密钥（付费或
 感谢使用
 ------FreeWrite
 
-[FreeWrite网课自主答题刷课脚本-使用说明.docx](https://github.com/user-attachments/files/29050374/FreeWrite.-.docx)
+
